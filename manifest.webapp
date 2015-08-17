@@ -1,0 +1,26 @@
+{
+  "name": "Another monchi addon [difficult mode]",
+  "description": "Adds a difficult mode to Monchi game",
+  "developer": {
+    "name": "leandro713"
+  },
+
+  "role": "addon",
+  "package_path": "package.zip",
+  "type": "certified",
+
+  "customizations": [{
+    "filter": "monchi.leandro.org",
+    "css": ["/style/monchi-dificil.css"],
+    "scripts": ["/js/monchi-dificil.js"]
+  }],
+
+  "permissions": {
+    "desktop-notification":{}
+  },
+  "icons":
+  {
+    "60":   "/icons/orange-monchi.png",
+    "128":  "/icons/orange-monchi128.png"
+  }
+}
