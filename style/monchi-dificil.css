@@ -23,7 +23,7 @@
     float: left;
     position: relative;
     border-radius: 50%;
-    background-color: #008CBA;
+    background-color: #e8b443 !important;
     line-height: 1.1rem;
 }
 #points {
@@ -37,11 +37,11 @@ section[role="region"] {
     height: 100%;
 }
 div[role="main"] {
-    background: orange;
+    background: orange !important;
     height: calc(100% - 5rem);
     overflow: hidden;
 }
 .skin-comms section[role="region"] > header:first-child,
 section.skin-comms[role="region"] > header:first-child {
-    background: linear-gradient(orange, #D4A76A);
+    background: linear-gradient(orange, #e8b443) !important;
 }
