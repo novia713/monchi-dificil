@@ -1,0 +1,8 @@
+{
+  "name" : "A monchi addon",
+  "description": "experimental cool stuff for Monchi Game",
+  "developer": { "name": "leandro713" },
+  "role": "addon",
+  "package_path": "package.zip",
+  "type": "certified"
+}
