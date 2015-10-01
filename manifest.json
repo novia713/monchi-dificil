@@ -5,8 +5,8 @@
   "description": "Adds a difficult mode to Monchi game",
   "author": "leandro713",
 
-  "customizations": [{
-    "matches": "monchi.leandro.org",
+  "ontent_scripts": [{
+    "matches": "app://monchi.leandro.org",
     "css": ["/style/monchi-dificil.css"],
     "js": ["/js/monchi-dificil.js"]
   }],
